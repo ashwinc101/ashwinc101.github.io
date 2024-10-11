@@ -1,8 +1,9 @@
 
 # ashwinc101.github.io
 
-# Example headings
-
+# Ashwin Chandran
+Audio Developer | Music Technologist | Software Engineer
+[contact](mailto:ashwinc101@gmail.com).
 ## Sample Section
 
 ## This'll  be a _Helpful_ Section About the Greek Letter Θ!
