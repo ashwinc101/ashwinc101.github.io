@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # ashwinc101.github.io
 
 # Example headings
