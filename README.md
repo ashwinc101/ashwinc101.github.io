@@ -3,26 +3,11 @@
 
 # Ashwin Chandran
 Audio Developer | Music Technologist | Software Engineer
-[contact](mailto:ashwinc101@gmail.com).
-## Sample Section
+[Email](mailto:ashwinc101@gmail.com)/
+[LinkedIn](www.linkedin.com/in/ashwin-chandran101)/
+[Youtube]([www.linkedin.com/in/ashwin-chandran101](https://youtube.com/@ashwinc101?si=XXwT2xWXkfiqX_sb))/
 
-## This'll  be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+# About
+West Midlands based Audio developer with a passion for immersive soundscapes and innovative sound synthesis.
 
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+# Audio Projects
